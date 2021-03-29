@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 		glue = "automacao",
 		monochrome = true, 
 		dryRun = false, 
-		tags = { "@BuscarPreçoNaKabum" }
+		tags = { "@realizarCadastroUsuario" }
 		)
 public class RunnerClass {
 

@@ -1,0 +1,21 @@
+{
+	"email": "email9@teste.com",
+	"title": "Mr.",
+	"firstName": "Teste",
+	"lastName": "Nove",
+	"password": "123456",
+	"dateOfBirthDay": "1",
+	"dateOfBirthMonth": "1",
+	"dateOfBirthYear": "1990",
+	"newsletter": "S",
+	"offers": "S",
+	"company": "Company 9",
+	"address1": "Address 9",
+	"address2": "Casa",
+	"city": "City 9",
+	"state": "1",
+	"postCode": "12345",
+	"additionalInformation": "Additional information 9",
+	"homePhone": "1144781289",
+	"mobilePhone": "11978452312"
+}
