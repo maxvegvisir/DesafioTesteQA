@@ -1,0 +1,10 @@
+{
+	"nome":"Paulo",
+	"ultimoNome":"Pereira",
+	"email":"teste123@teste.com",
+	"endereco":"Rua 1",
+	"universidade":"Paulista",
+	"profissao":"Analista de Testes",
+	"genero":"masculino",
+	"idade":"40"
+}
